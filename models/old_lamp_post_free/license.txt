@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Lamp Post (Free!)
+* source:	https://sketchfab.com/3d-models/old-lamp-post-free-0bc8eed63f654ed2adef2825d793f8d4
+* author:	Robin Butler (https://sketchfab.com/StarTrekGuy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Lamp Post (Free!)" (https://sketchfab.com/3d-models/old-lamp-post-free-0bc8eed63f654ed2adef2825d793f8d4) by Robin Butler (https://sketchfab.com/StarTrekGuy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
